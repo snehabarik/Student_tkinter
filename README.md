@@ -28,7 +28,7 @@ A simple login interface built using **Python Tkinter** and **PIL**.
 2. Run the Python file:
 
    ```
-   python your_file_name.py
+   python Studenttk.py
    ```
 
 ## 📌 Note
